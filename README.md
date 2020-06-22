@@ -4,7 +4,11 @@
 
 # Description
 
-This is a port of the RFM69 library for arduino from https://github.com/LowPowerLab/RFM69 to python for raspberry pi.
+This is a port of a port!
+
+The original project was a port of the RFM69 library for arduino from https://github.com/LowPowerLab/RFM69 to python for raspberry pi.
+
+This project is a port of that original port project from Python 2 to Python 3.
 
 # Hardware setup
 

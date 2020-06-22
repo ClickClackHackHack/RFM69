@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # **********************************************************************************
 # Registers used in driver definition for HopeRF RFM69W/RFM69HW, Semtech SX1231/1231H
